@@ -1,0 +1,3 @@
+r < payload
+x/20x $esp
+quit
