@@ -5,7 +5,7 @@ This repository hosts the code that we "objEEdump" used to try and render a [seg
 
 At this point, the code is a disgusting nightmare and is daunting to look through and review, but it should documented and stored nonetheless.
 
-__It managed to break over 200 binaries during the exercise, which on average was more than 50-70 of the other competing teams!__
+__It managed to break over 200 binaries during the exercise, which on average 50-70 more than the other competing teams!__
 
 File & Directory Information
 --------
@@ -32,10 +32,10 @@ File & Directory Information
 
 
 
-
 [segfault]: https://en.wikipedia.org/wiki/Segmentation_fault
 [Cyberstakes]: https://www.cyberstakesonline.com/
 [buffer overflow]: https://en.wikipedia.org/wiki/Buffer_overflow
+[buffer overflows]: https://en.wikipedia.org/wiki/Buffer_overflow
 [shell]: https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29
 [bash]: https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29
 [Over the Wire]: http://overthewire.org/wargames/
